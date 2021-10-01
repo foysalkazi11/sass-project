@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-sass-project",
+  "version": "1.0.0",
+  "description": "bootstrap-sass-project",
+  "main": "index.js",
+  "scripts": {
+    "scss": "gulp sass",
+    "watch": "gulp sass:watch"
+  },
+  "keywords": [
+    "bootstrap",
+    "sass"
+  ],
+  "author": "Md Foysal Kazi",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.42.1"
+  }
+}
